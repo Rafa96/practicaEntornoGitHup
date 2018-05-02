@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Ejercicio1 {
 	
-	// Cambio del alumno 2 (Alvaro Martin)
+	//Cambio alumno1 (Alvaro Martin)
 		
 	
 	
