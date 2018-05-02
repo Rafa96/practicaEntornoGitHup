@@ -4,7 +4,8 @@ public class Ejercicio1 {
 	//Cambio alumno1 (Rafa Mejias)
 	//Cambio alumno2 (Alvaro Martin)
 	
-	//Cambio alumno1 conflictos linea (Rafa Mejias)
+	//Cambio alumno1, alumno2 conflictos linea (Rafa Mejias)(Alvaro Martin)
+
 	
 	
 
